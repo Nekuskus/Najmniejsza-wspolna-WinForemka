@@ -1,0 +1,10 @@
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\bin\Debug\Najmniejsza wspólna WinForemka.exe.config
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\bin\Debug\Najmniejsza wspólna WinForemka.exe
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\bin\Debug\Najmniejsza wspólna WinForemka.pdb
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza wspólna WinForemka.csprojAssemblyReference.cache
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza_wspólna_WinForemka.Form1.resources
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza_wspólna_WinForemka.Properties.Resources.resources
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza wspólna WinForemka.csproj.GenerateResource.cache
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza wspólna WinForemka.csproj.CoreCompileInputs.cache
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza wspólna WinForemka.exe
+D:\Damian\Hakier\Csharp\Najmniejsza wspólna WinForemka\obj\Debug\Najmniejsza wspólna WinForemka.pdb
